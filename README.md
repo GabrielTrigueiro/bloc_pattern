@@ -1,16 +1,16 @@
-# bloc_pattern
+# Bloc Pattern
 
-A new Flutter project.
+Projeto feito com Flutter para aprender como aplicar o padrão Bloc em projetos flutter e gerênciar estados de forma mais eficiente e organizada.
 
-## Getting Started
+## Core
+![Exemplo de imagem](example/bloco.png)
 
-This project is a starting point for a Flutter application.
+![Exemplo de imagem](example/state.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Demonstração
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Exemplo de imagem](example/example.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Getting Started
+
+Para rodar o projeto na sua máquina é preciso ter algum emulador, dispositivo IOS ou Android disponível, também é necessário o SDK do flutter.

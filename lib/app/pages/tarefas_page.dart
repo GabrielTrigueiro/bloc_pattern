@@ -73,4 +73,4 @@ class _TarefasPageState extends State<TarefasPage> {
     _tarefaBloc.close();
     super.dispose();
   }
-}
+} 
